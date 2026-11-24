@@ -1,6 +1,6 @@
 {
   "name": "wakeshift",
-  "version": "2026.11.24.0937+50c79844efcf",
+  "version": "2026.11.24.1957+3e71e3ef7055",
   "description": "Lets Wakeshift messages wake your Antigravity CLI conversations, for the apps you connect. Its hooks run Wakeshift's connector, ~/.wakeshift/bin/wakeshift, which it downloads and checks against the SHA-256 it carries.",
   "author": {
     "name": "Wakeshift",
