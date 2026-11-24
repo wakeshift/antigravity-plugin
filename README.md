@@ -33,11 +33,9 @@ Later runs only check that the connector is the pinned version or newer, so they
 
 ## Other Wakeshift servers
 
-The `main` branch trusts production, `https://app.wakeshift.ai`. The `staging` branch trusts Wakeshift's staging server, `https://app.staging.wakeshift.ai`:
+This plugin trusts Wakeshift's hosted server, `https://app.wakeshift.ai`.
 
-```sh
-agy plugin install https://github.com/wakeshift/antigravity-plugin/tree/staging
-```
+Running your own server? Render a marketplace for it: see [wakeshift/server docs/self-hosting.md](https://github.com/wakeshift/server/blob/main/docs/self-hosting.md#the-connector-and-installs).
 
 ## Uninstall
 
